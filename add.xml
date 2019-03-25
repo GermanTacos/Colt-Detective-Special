@@ -1,0 +1,119 @@
+<AddFiles directory="assets">
+
+	<texture         path="units/mods/weapons/wpn_fps_pis_friday_pts/friday_base_std_df"/>
+	<texture         path="units/mods/weapons/wpn_fps_pis_friday_pts/friday_base_std_nm"/>
+	
+	<texture         path="units/mods/weapons/wpn_fps_pis_friday_pts/friday_barrel_std_df"/>
+	<texture         path="units/mods/weapons/wpn_fps_pis_friday_pts/friday_barrel_std_nm"/>
+	
+	<texture         path="units/mods/weapons/wpn_fps_pis_friday_pts/friday_grip_std_df"/>
+	<texture         path="units/mods/weapons/wpn_fps_pis_friday_pts/friday_grip_std_nm"/>
+	
+	<texture         path="units/mods/weapons/wpn_fps_pis_friday_pts/friday_ammo_std_df"/>
+	<texture         path="units/mods/weapons/wpn_fps_pis_friday_pts/friday_ammo_std_nm"/>
+	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_fr_std"/>
+	<model           path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_fr_std"/>
+	<object          path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_fr_std"/>
+	<unit            path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_fr_std"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_fr_std"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_fr_std_thq"/>
+	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_gr_std"/>
+	<model           path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_gr_std"/>
+	<object          path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_gr_std"/>
+	<unit            path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_gr_std"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_gr_std"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_gr_std_thq"/>
+	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_ba_std"/>
+	<model           path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_ba_std"/>
+	<object          path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_ba_std"/>
+	<unit            path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_ba_std"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_ba_std"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_ba_std_thq"/>
+	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_cy_std"/>
+	<model           path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_cy_std"/>
+	<object          path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_cy_std"/>
+	<unit            path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_cy_std"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_cy_std"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_cy_std_thq"/>
+	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_ha_std"/>
+	<model           path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_ha_std"/>
+	<object          path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_ha_std"/>
+	<unit            path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_ha_std"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_ha_std"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_ha_std_thq"/>
+	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_ep_std"/>
+	<model           path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_ep_std"/>
+	<object          path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_ep_std"/>
+	<unit            path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_ep_std"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_ep_std"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_ep_std_thq"/>
+
+	<cooked_physics  path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_lo_std"/>
+	<model           path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_lo_std"/>
+	<object          path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_lo_std"/>
+	<unit            path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_lo_std"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_lo_std"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_lo_std_thq"/>
+	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_sp_std"/>
+	<model           path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_sp_std"/>
+	<object          path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_sp_std"/>
+	<unit            path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_sp_std"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_sp_std"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_friday_pts/wpn_fps_pis_friday_sp_std_thq"/>
+	
+	<texture         path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/friday_base_nickel_df"/>
+	
+	<texture         path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/friday_barrel_nickel_df"/>
+	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/wpn_fps_pis_friday_fr_nickel"/>
+	<model           path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/wpn_fps_pis_friday_fr_nickel"/>
+	<object          path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/wpn_fps_pis_friday_fr_nickel"/>
+	<unit            path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/wpn_fps_pis_friday_fr_nickel"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/wpn_fps_pis_friday_fr_nickel"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/wpn_fps_pis_friday_fr_nickel_thq"/>
+	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/wpn_fps_pis_friday_ba_nickel"/>
+	<model           path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/wpn_fps_pis_friday_ba_nickel"/>
+	<object          path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/wpn_fps_pis_friday_ba_nickel"/>
+	<unit            path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/wpn_fps_pis_friday_ba_nickel"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/wpn_fps_pis_friday_ba_nickel"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/wpn_fps_pis_friday_ba_nickel_thq"/>
+	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/wpn_fps_pis_friday_cy_nickel"/>
+	<model           path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/wpn_fps_pis_friday_cy_nickel"/>
+	<object          path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/wpn_fps_pis_friday_cy_nickel"/>
+	<unit            path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/wpn_fps_pis_friday_cy_nickel"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/wpn_fps_pis_friday_cy_nickel"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/wpn_fps_pis_friday_cy_nickel_thq"/>
+	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/wpn_fps_pis_friday_ep_nickel"/>
+	<model           path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/wpn_fps_pis_friday_ep_nickel"/>
+	<object          path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/wpn_fps_pis_friday_ep_nickel"/>
+	<unit            path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/wpn_fps_pis_friday_ep_nickel"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/wpn_fps_pis_friday_ep_nickel"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/wpn_fps_pis_friday_ep_nickel_thq"/>
+
+	<cooked_physics  path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/wpn_fps_pis_friday_lo_nickel"/>
+	<model           path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/wpn_fps_pis_friday_lo_nickel"/>
+	<object          path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/wpn_fps_pis_friday_lo_nickel"/>
+	<unit            path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/wpn_fps_pis_friday_lo_nickel"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/wpn_fps_pis_friday_lo_nickel"/>
+	<material_config path="units/mods/weapons/wpn_fps_pis_friday_nickel_pts/wpn_fps_pis_friday_lo_nickel_thq"/>
+	
+	<cooked_physics  path="units/mods/weapons/wpn_fps_pis_friday/wpn_fps_pis_friday"/>
+	<model           path="units/mods/weapons/wpn_fps_pis_friday/wpn_fps_pis_friday"/>
+	<object          path="units/mods/weapons/wpn_fps_pis_friday/wpn_fps_pis_friday"/>
+	<unit            path="units/mods/weapons/wpn_fps_pis_friday/wpn_fps_pis_friday"/>
+	
+	<unit            path="units/mods/weapons/wpn_fps_pis_friday/wpn_fps_pis_friday_npc"/>
+	
+	<texture         path="guis/dlcs/mods/textures/pd2/blackmarket/icons/weapons/friday"/>
+	
+</AddFiles>

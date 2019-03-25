@@ -1,0 +1,12 @@
+{
+
+	"menu_l_global_value_friday" : "This is a Custom Weapon!",
+	
+	"bm_w_friday" : "Colt Detective Special",
+
+	"bm_menu_iron_rear"  : "Rear Iron Sight",
+	"bm_menu_iron_front" : "Front Iron Sight",
+	
+	"bm_wp_wpn_fps_pis_friday_fr_nickel" : "Nickel Finish"
+	
+}

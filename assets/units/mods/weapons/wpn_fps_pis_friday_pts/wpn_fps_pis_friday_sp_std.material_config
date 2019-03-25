@@ -1,0 +1,10 @@
+<materials version="3" group="weapon_chinchilla">
+	<material name="wpn_fps_pist_rage_mag44" render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+		<diffuse_texture file="units/mods/weapons/wpn_fps_pis_friday_pts/friday_ammo_std_df" />
+		<bump_normal_texture file="units/mods/weapons/wpn_fps_pis_friday_pts/friday_ammo_std_nm" />
+	</material>
+	<material name="cylinder" render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+		<diffuse_texture file="units/mods/weapons/wpn_fps_pis_friday_pts/friday_base_std_df" />
+		<bump_normal_texture file="units/mods/weapons/wpn_fps_pis_friday_pts/friday_base_std_nm" />
+	</material>
+</materials>
